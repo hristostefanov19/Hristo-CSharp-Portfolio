@@ -1,0 +1,14 @@
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\bin\Debug\net8.0\Employee Tracker.exe
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\bin\Debug\net8.0\Employee Tracker.deps.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\bin\Debug\net8.0\Employee Tracker.runtimeconfig.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\bin\Debug\net8.0\Employee Tracker.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\bin\Debug\net8.0\Employee Tracker.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\obj\Debug\net8.0\Employee Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\obj\Debug\net8.0\Employee Tracker.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\obj\Debug\net8.0\Employee Tracker.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\obj\Debug\net8.0\Employee Tracker.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\obj\Debug\net8.0\Employee Tracker.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\obj\Debug\net8.0\refint\Employee Tracker.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\obj\Debug\net8.0\Employee Tracker.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\obj\Debug\net8.0\Employee Tracker.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Employee Tracker\Employee Tracker\obj\Debug\net8.0\ref\Employee Tracker.dll

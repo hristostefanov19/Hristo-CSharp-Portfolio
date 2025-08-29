@@ -1,0 +1,14 @@
+Description:
+A book library management application.
+Features:
+
+Add, remove, and view books
+
+Search by author or title
+
+Filtering books by year
+
+Save data to a file (books.txt)
+
+Technologies:
+C#, List, LINQ, file storage

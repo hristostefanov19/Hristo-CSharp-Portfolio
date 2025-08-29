@@ -1,0 +1,14 @@
+Description:
+Friends list management application.
+Features:
+
+Add, remove and view friends
+
+Filtering by age (over 21)
+
+Sorting by name or age
+
+Data storage in a file (friends.txt)
+
+Technologies:
+C#, OOP, List, Dictionary, LINQ, file storage

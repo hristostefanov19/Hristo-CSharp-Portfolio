@@ -1,0 +1,14 @@
+Description:
+Mini HR system for employee management.
+Functionalities:
+
+Add and remove employees
+
+Filtering and grouping by position
+
+Sorting by name or age
+
+Storing data in a file (employees.txt)
+
+Technologies:
+C#, OOP, inheritance, LINQ, file storage

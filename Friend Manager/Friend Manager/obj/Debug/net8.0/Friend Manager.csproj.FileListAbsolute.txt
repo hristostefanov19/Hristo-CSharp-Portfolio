@@ -1,0 +1,14 @@
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\bin\Debug\net8.0\Friend Manager.exe
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\bin\Debug\net8.0\Friend Manager.deps.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\bin\Debug\net8.0\Friend Manager.runtimeconfig.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\bin\Debug\net8.0\Friend Manager.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\bin\Debug\net8.0\Friend Manager.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\obj\Debug\net8.0\Friend Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\obj\Debug\net8.0\Friend Manager.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\obj\Debug\net8.0\Friend Manager.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\obj\Debug\net8.0\Friend Manager.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\obj\Debug\net8.0\Friend Manager.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\obj\Debug\net8.0\refint\Friend Manager.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\obj\Debug\net8.0\Friend Manager.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\obj\Debug\net8.0\Friend Manager.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Friend Manager\Friend Manager\obj\Debug\net8.0\ref\Friend Manager.dll

@@ -1,0 +1,14 @@
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\bin\Debug\net8.0\Mini Library.exe
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\bin\Debug\net8.0\Mini Library.deps.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\bin\Debug\net8.0\Mini Library.runtimeconfig.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\bin\Debug\net8.0\Mini Library.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\bin\Debug\net8.0\Mini Library.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\obj\Debug\net8.0\Mini Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\obj\Debug\net8.0\Mini Library.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\obj\Debug\net8.0\Mini Library.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\obj\Debug\net8.0\Mini Library.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\obj\Debug\net8.0\Mini Library.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\obj\Debug\net8.0\refint\Mini Library.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\obj\Debug\net8.0\Mini Library.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\obj\Debug\net8.0\Mini Library.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library\Mini Library\obj\Debug\net8.0\ref\Mini Library.dll
